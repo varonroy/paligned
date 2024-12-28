@@ -1,0 +1,14 @@
+[package]
+name = "paligned"
+version = "0.1.0"
+edition = "2021"
+description = "A simple macro for aligned printing"
+repository = "https://github.com/varonroy/paligned"
+documentation = "https://docs.rs/crate/paligned/"
+readme = "README.md"
+authors = [ "Roy Varon Weinryb <varonroy@gmail.com>" ]
+keywords = [ "format", "print", "aligned", "macro" ]
+categories = [ "command-line-utilities", "command-line-interface" ]
+license = "MIT"
+
+[dependencies]
